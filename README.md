@@ -1,6 +1,5 @@
 # NBASimulator
-
-How to Use
+A play by play simulator of the Timerwolves vs the Rockets 
 
 ### Run
 ```
