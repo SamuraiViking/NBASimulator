@@ -2,15 +2,9 @@
 
 How to Use
 
-### Install
-```
-git clone https://github.com/SamuraiViking/NBASimulator/
-
-### Enter Folder
-```
-cd NBASimulator
-```
 ### Run
 ```
+git clone https://github.com/SamuraiViking/NBASimulator/
+cd NBASimulator
 python3 NBA.py
 ```
