@@ -1,5 +1,5 @@
 # NBASimulator
-A play by play simulator of the Timerwolves vs the Rockets 
+A play by play simulator of the Timerwolves vs the Rockets based of stats in the Txt files 
 
 ### Run
 ```
