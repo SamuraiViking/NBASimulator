@@ -5,9 +5,12 @@ How to Use
 ### Install
 ```
 git clone https://github.com/SamuraiViking/NBASimulator/
+
+### Enter Folder
+```
 cd NBASimulator
 ```
-### Use
+### Run
 ```
 python3 NBA.py
 ```
